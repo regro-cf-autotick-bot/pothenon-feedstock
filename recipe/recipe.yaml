@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.0.2"
+  version: "0.0.4"
 
 package:
   name: pothenon
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/p/pothenon/pothenon-${{ version }}.tar.gz
-  sha256: a58bda97cbefb00d42302e4f2640fe8d4eb5fb5eb889e412f84bd58426912117
+  sha256: 6a332f476b98a9b5442916647385837f456d3423e84b0d445be12aa826d5703a
 
 build:
   number: 0
